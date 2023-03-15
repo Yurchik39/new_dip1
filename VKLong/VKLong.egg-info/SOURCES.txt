@@ -1,0 +1,13 @@
+setup.cfg
+setup.py
+VKLong/__init__.py
+VKLong/bot.py
+VKLong/exceptions.py
+VKLong/keyboard.py
+VKLong/object.py
+VKLong.egg-info/PKG-INFO
+VKLong.egg-info/SOURCES.txt
+VKLong.egg-info/dependency_links.txt
+VKLong.egg-info/not-zip-safe
+VKLong.egg-info/requires.txt
+VKLong.egg-info/top_level.txt

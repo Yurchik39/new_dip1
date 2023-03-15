@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: VKLong
+Version: 0.2.1
+Summary: Simple wrapper to make VK-Bot on Longpoll API
+Author: LeetCrash
+Author-email: leetcrash.official@gmail.com
+Keywords: vk api,vk api library,vk longpoll,vk bot,vklong,vkapi,vk long poll bot
